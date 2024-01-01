@@ -1,0 +1,41 @@
+{
+    list-style: none;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: aqua;
+    height: 70px;
+}
+
+
+.logo{
+    font-size: 40px;
+    margin-left: 30px;
+}
+nav ul{
+    float: right;
+    margin-top: 20px;
+}
+
+
+
+nav ul li{
+    display: inline-block;
+    margin-right: 30px;
+    font-size: 20px;
+}
+nav ul li a{
+    color: black;
+    padding: 8px;
+}
+
+nav ul li a:hover{
+padding: 8px;
+border-radius: 5px;
+background-color: brown;
+color:cornsilk ;
+}
+
+

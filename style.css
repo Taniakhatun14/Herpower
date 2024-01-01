@@ -1,0 +1,43 @@
+body{
+    background-image: url(flower.jpg);
+    background-repeat: no-repeat;
+    background-size: 300px;
+}
+.i{
+    opacity: 90%;
+}
+
+h1,h2,h3{
+    border-top: 3px dashed chartreuse;
+    border-left: 4px solid crimson;
+    border-width: 3px solid green;
+}
+.h1{
+color: brown;
+margin-top: 30px;
+margin-left: 50px;
+background-color: aqua;
+width: 300px;
+
+}
+.h2{
+color: blue;
+}
+p{
+color: blueviolet;
+}
+.h3{
+color: gold  ;
+}
+.b1{
+color: blue;
+}
+
+.b2{
+color: blue;
+border: 2px solid red;
+}
+table th,td{
+    border: 1px solid chartreuse;
+    border-collapse: collapse;
+}
